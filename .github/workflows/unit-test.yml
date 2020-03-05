@@ -1,7 +1,7 @@
 name: Android Unit Test
 
 on:
-  push:
+  create:
     tags:
       - v*
 

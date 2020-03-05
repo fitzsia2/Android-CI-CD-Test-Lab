@@ -18,11 +18,11 @@ class ExampleUnitTest {
 
     @Test
     fun `multiplication is correct`() {
-        assertEquals(2, 2 * 2)
+        assertEquals(4, 2 * 2)
     }
 
     @Test
     fun `division is correct`() {
-        assertEquals(4, 4 / 2)
+        assertEquals(2, 4 / 2)
     }
 }
